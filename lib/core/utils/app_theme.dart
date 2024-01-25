@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:grocer_books/utils/app_colors.dart';
-import 'package:grocer_books/utils/app_constants.dart';
+import 'package:grocer_books/core/utils/app_colors.dart';
+import 'package:grocer_books/core/utils/app_constants.dart';
 
 class AppTheme {
   static ThemeData mainTheme = ThemeData(

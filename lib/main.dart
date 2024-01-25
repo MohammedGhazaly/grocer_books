@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:grocer_books/utils/app_theme.dart';
+import 'package:grocer_books/core/utils/app_theme.dart';
 
 void main() {
   runApp(const MyApp());
